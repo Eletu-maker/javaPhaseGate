@@ -22,7 +22,7 @@ public class phasegate8{
 	System.out.println(arraySort);
 	System.out.println(arraySort.size());
 	for(int count = 0; count < arraySort.size();count++){
-	int lowest = 100000;
+	int lowest = 100000; 
 	for(int index =0; index <arraySort.size();index++){
 	if (arraySort.get(index) < lowest){
 	lowest =arraySort.get(index);
