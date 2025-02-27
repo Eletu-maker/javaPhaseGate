@@ -3,7 +3,7 @@ public class phasegateDayQuestion4{
 	
 	public static void main(String []args){
 	ArrayList<Integer> arraylist =  new ArrayList<>();
-	int [] nums = {4,5,1,3,2};
+	int [] nums = {4,5,6,3,2,1};
 	int largest =10000;
 	
 	for(int all=0; all <nums.length; all++){
